@@ -1,5 +1,7 @@
 Trip Planner API
+
 Overview
+
 This Trip Planner API is a comprehensive solution implemented as part of the Comp Sci 214 course at Northwestern University, Fall 2023. It provides routing and searching services, allowing users to plan trips efficiently. The API supports various types of queries and utilizes data structures and algorithms selected for optimal performance.
 
 Features
